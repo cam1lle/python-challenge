@@ -44,5 +44,3 @@ During the completion of the challenges, the following hints and considerations 
 * The provided datasets are large to showcase the limitations of Excel-based analysis and highlight the power of Python for handling big data.
 * Each challenge should be approached separately by writing a script specific to the dataset. Run each script individually to ensure code functionality and accuracy.
 * Regularly commit the work and push changes to the repository to maintain a backup and prevent data loss. Include a detailed README.md file in the repository.
-
-Note: This README file provides an overview of the project and the actions taken. For more specific details, please refer to the project files and the Python scripts themselves included in the shared link.
